@@ -10,6 +10,7 @@ function App() {
         </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
+          Nattapon Rongthong
         </p>
         <p>
           <a
